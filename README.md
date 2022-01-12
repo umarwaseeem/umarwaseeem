@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar Waseem</h1>
 <h3 align="center">A passionate coder.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umar-waseem&label=Profile%20views&color=0e75b6&style=flat" alt="umar-waseem" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umar-waseem" alt="umar-waseem" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **flutter**
 
@@ -29,3 +24,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umar-waseem&show_icons=true&locale=en" alt="umar-waseem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umar-waseem&" alt="umar-waseem" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umar-waseem&label=Profile%20views&color=0e75b6&style=flat" alt="umar-waseem" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umar-waseem" alt="umar-waseem" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
