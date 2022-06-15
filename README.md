@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar Waseem</h1>
-<h3 align="center">A passionate coder.</h3><br>
 
 
 -> 🌱 I’m currently learning flutter <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><br>
