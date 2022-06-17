@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar Waseem</h1>
 
 
--> 🌱 I’m currently learning flutter <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><br>
+-> 🌱 I’m currently learning flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><br>
 -> 🎓 BS Computer Science student at FAST NUCES ISLAMABAD <br>
--> 📫 Email Me      <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.svg" alt="" height="30" width="30" /></a>
+-> 📫 Drop Me An Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.svg" alt="" height="30" width="30" /></a>
 
 
 
