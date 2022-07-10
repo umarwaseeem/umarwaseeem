@@ -9,6 +9,10 @@
 
 
 
+
+
+
+![](https://komarev.com/ghpvc/?username=Umar-Waseem)
 [![Github](https://img.shields.io/github/followers/Umar-Waseem?label=Follow&style=social)](https://github.com/Umar-Waseem)  
 
 
@@ -31,13 +35,17 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=30,0f0c29,302b63,24243e&border_radius=14)](https://github.com/Umar-Waseem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=30,0f0c29,302b63,24243e&border_radius=14&langs_count=8)](https://github.com/Umar-Waseem/github-readme-stats)
 
 
 
 ## GitHub Stats:
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=Umar-Waseem&show_icons=true&theme=dracula&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&border_radius=14)
+![GitHub](https://github-readme-stats.vercel.app/api?username=Umar-Waseem&show_icons=true&theme=dracula&bg_color=30,0f0c29,302b63,24243e&title_color=fff&border_radius=14)
+
+## Contribution / Commit Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Umar-Waseem&theme=dracula&background=0F0C29)](https://git.io/streak-stats)
 
 
 
