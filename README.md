@@ -36,7 +36,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=30,0f0c29,302b63,24243e&border_radius=14&langs_count=8)](https://github.com/Umar-Waseem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=30,0f0c29,302b63,24243e&border_radius=14&langs_count=10)](https://github.com/Umar-Waseem/github-readme-stats)
 
 
 
