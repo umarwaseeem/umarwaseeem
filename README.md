@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/17903563/muhammad-umar-waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad umar waseem" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/umarterminator" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="umarterminator" height="30" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/umarterminator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="umarterminator" height="30" width="30" /></a>
- <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.svg" alt="" height="30" width="30" /></a>
+ <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.svg" alt="Gmail" height="30" width="30" /></a><a href="https://medium.com/@umar.waseem" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium" height="30" width="30" /></a>
 </p>
 
 ## Languages and Tools:
