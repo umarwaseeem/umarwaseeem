@@ -3,7 +3,7 @@
 
 -> 🌱 I’m currently learning flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><br>
 -> 🎓 BS Computer Science student at FAST NUCES ISLAMABAD <br>
--> 📫 Drop Me An Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.svg" alt="" height="30" width="30" /></a>
+-> 📫 Drop Me An Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="" height="20" width="30" /></a>
 
 
 
@@ -19,12 +19,22 @@
 
 ## Connect with me:
 <p >
-<a href="https://g.dev/umar-waseem" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/vf0a37f79faad17a4ba7ad32be120d7095e49b17f56e183e15bf9d3819216d0c9/developers/images/lockup.svg" alt="" height="90" width="90" /></a>
+
+#### Google Developers Profile
+<a href="https://g.dev/umar-waseem" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/vf0a37f79faad17a4ba7ad32be120d7095e49b17f56e183e15bf9d3819216d0c9/developers/images/lockup.svg" alt="" height="30" width="90" />
+</a>
+
+#### Linkedin:
 <a href="https://www.linkedin.com/in/umarwaseem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad umar waseem" height="30" width="30" /></a>
+
+#### StackOverflow
 <a href="https://stackoverflow.com/users/17903563/muhammad-umar-waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad umar waseem" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/umarterminator" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="umarterminator" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/umarterminator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="umarterminator" height="30" width="30" /></a>
- <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.svg" alt="Gmail" height="30" width="30" /></a><a href="https://medium.com/@umar.waseem" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium" height="30" width="30" /></a>
+
+#### Gmail
+<a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="" height="20" width="30" /></a>
+
+#### Medium:
+<a href="https://medium.com/@umar.waseem" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium" height="30" width="30" /></a>
 </p>
 
 ## Languages and Tools:
