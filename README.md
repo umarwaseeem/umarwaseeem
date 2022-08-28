@@ -6,7 +6,6 @@
 -> 📫 Drop Me An Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="" height="20" width="30" /></a>
 
 
-
 <!-- <img  src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&bgColor=#0F0C29" alt="Jokes Card" /> -->
 
 
@@ -15,6 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Umar-Waseem)
 [![Github](https://img.shields.io/github/followers/Umar-Waseem?label=Follow&style=social)](https://github.com/Umar-Waseem)  
+[![wakatime](https://wakatime.com/badge/user/ec57600d-1d86-47c7-a978-8435c3d0e65a.svg)](https://wakatime.com/@ec57600d-1d86-47c7-a978-8435c3d0e65a)
 
 
 ## Connect with me:
@@ -56,6 +56,13 @@
 
 ## Contribution - Commit Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Umar-Waseem&theme=dracula&background=0F0C29)](https://git.io/streak-stats)
+
+
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
