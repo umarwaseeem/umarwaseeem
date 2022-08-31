@@ -8,7 +8,7 @@
 
 
 <p align="center" width="100%" height="100%">
--> 🌱 I’m currently learning flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><br><br>
+-> 🌱 I’m currently learning Node JS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="flutter" width="80" height="80"/> </a><br><br>
 -> 🎓 BS Computer Science student at FAST NUCES ISLAMABAD <br> <br>
 -> 📫 Drop Me An Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="" height="20" width="30" /></a> <br>
 </p>
@@ -47,8 +47,12 @@
 
 <a href="https://medium.com/@umar.waseem" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="Medium" height="30" width="30" /></a>
 
-<h2 align="center">Languages and Tools:<h2>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/firebase.png" alt="firebase" width="30" height="30"/> </a> </p>
+<h2 align="center">Skills:<h2>
+
+<p align="center"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://copm.s3.amazonaws.com/189aa059.png" alt="flutter" width="30" height="30"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/firebase.png" alt="firebase" width="30" height="30"/> </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="flutter" width="30" height="30"/> </a> <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/750/1*x5D-t_6hTxA_5YDtAZJZvw.jpeg" alt="flutter" width="60" height="40"/> </a>  </p>
+
 
 
 <h2 align="center">I code in 💻:<h2>
