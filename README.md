@@ -54,19 +54,24 @@
 <h2 align="center">I code in 💻:<h2>
 
 
+<p align="center" >
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=30,0f0c29,302b63,24243e&border_radius=14&langs_count=10" >
+</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=30,0f0c29,302b63,24243e&border_radius=14&langs_count=10)](https://github.com/Umar-Waseem/github-readme-stats)
 
 
- <h2 align="center">GitHub Stats:<h2>
+<h2 align="center">GitHub Stats:<h2>
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=Umar-Waseem&show_icons=true&theme=dracula&bg_color=30,0f0c29,302b63,24243e&title_color=fff&border_radius=14)
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api?username=Umar-Waseem&show_icons=true&theme=dracula&bg_color=30,0f0c29,302b63,24243e&title_color=fff&border_radius=14" >
+</p>
 
 <h2 align="center">Contribution - Commit Streak<h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Umar-Waseem&theme=dracula&background=0F0C29)](https://git.io/streak-stats)
-
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Umar-Waseem&theme=dracula&background=0F0C29">
+</p>
 
 
 
