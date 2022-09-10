@@ -52,13 +52,14 @@
 
 <br> <br>
 
-### I code in 💻:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Github Stats 📈
+### I code in 💻:
 
-
-<p  >
 <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=20,005355,00583d,0c5932e&border_radius=18&langs_count=10" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+### My Github Stats 📈
+
 <img src = "https://github-readme-stats.vercel.app/api?username=Umar-Waseem&show_icons=true&theme=dracula&bg_color=20,005355,00583d,0c5932e&title_color=fffff1&border_radius=18" >
-</p>
+
 
 <br> <br>
 
