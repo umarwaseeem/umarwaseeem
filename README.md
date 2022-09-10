@@ -54,11 +54,11 @@
 
 ### I code in 💻:
 
-<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=20,005355,00583d,0c5932e&border_radius=18&langs_count=10" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&border_radius=18&langs_count=10" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### My Github Stats 📈
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Umar-Waseem&show_icons=true&theme=dracula&bg_color=20,005355,00583d,0c5932e&title_color=fffff1&border_radius=18" >
+<img src = "https://github-readme-stats.vercel.app/api?username=Umar-Waseem&show_icons=true&theme=dracula&title_color=fffff1&border_radius=18" >
 
 
 <br> <br>
@@ -66,7 +66,7 @@
 
 ### Contribution Streak
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Umar-Waseem&theme=gotham&background=063015">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Umar-Waseem&theme=dracula">
 </p>
 
 <br> <br>
@@ -85,6 +85,13 @@ YAML         4 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+### Check out some of my top repos:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Chat-Flutter-Firebase&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Movie-App-Flutter&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Shop-App-Flutter-Firebase&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Leew-Wallet&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
