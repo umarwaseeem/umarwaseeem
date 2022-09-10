@@ -4,10 +4,11 @@
 ### A passionate software developer from ` PAKISTAN ` &nbsp; &nbsp; <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" height=20 width=20 /> 
 
 
+
 <img align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="460" height="320" />  
 
 - #### I’m currently learning &nbsp; <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="flutter" width="40" height="40"/> </a>
-- #### 🎓 BS Computer Science student at FAST NUCES ISLAMABAD <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> <img src="http://isb.nu.edu.pk/assets/images/logo.png" alt="university logo" width="20" height="20"/> </a>
+- #### 🎓 BS Computer Science student at FAST ISLAMABAD <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> <img src="http://isb.nu.edu.pk/assets/images/logo.png" alt="university logo" width="20" height="20"/> </a>
 - #### 📧 Drop Me An Email &nbsp;&nbsp;  <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="" height="20" width="30" /></a> <br> 
 
 
@@ -51,11 +52,11 @@
 
 <br> <br>
 
-### I code in 💻:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Github Stats 📈
+### I code in 💻:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Github Stats 📈
 
 
 <p  >
-<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=20,005355,00583d,0c5932e&border_radius=18&langs_count=10" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&bg_color=20,005355,00583d,0c5932e&border_radius=18&langs_count=10" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src = "https://github-readme-stats.vercel.app/api?username=Umar-Waseem&show_icons=true&theme=dracula&bg_color=20,005355,00583d,0c5932e&title_color=fffff1&border_radius=18" >
 </p>
 
