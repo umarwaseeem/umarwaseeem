@@ -91,7 +91,6 @@ YAML         3 mins          ░░░░░░░░░░░░░░░░░
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Chat-Flutter-Firebase&show_owner=true&theme=dracula)](https://github.com/Umar-Waseem/Chat-Flutter-Firebase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Movie-App-Flutter&show_owner=true&theme=dracula)](https://github.com/Umar-Waseem/Movie-App-Flutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Shop-App-Flutter-Firebase&show_owner=true&theme=dracula)](https://github.com/Umar-Waseem/Shop-App-Flutter-Firebase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Leew-Wallet&show_owner=true&theme=dracula)](https://github.com/Umar-Waseem/Leew-Wallet)
 
 
 
