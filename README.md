@@ -36,7 +36,7 @@
 
 ### Check Out My Latest Article 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@umar.waseem/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@umar.waseem/0" alt="Recent Article 0"> 
+- <a target="_blank" href="https://medium.com/@umar.waseem/things-you-need-to-know-before-starting-flutter-af8c7639f7ab">What to do before learning Flutter?</a>
 
 <br> <br>
 
