@@ -1,10 +1,7 @@
 # Hi 👋, I'm Muhammad Umar Waseem
 
 
-### A passionate software developer from ` PAKISTAN ` &nbsp; &nbsp; <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" height=20 width=20 /> 
-
-
-
+### A passionate software developer from ` PAKISTAN ` &nbsp; &nbsp; <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" height=20 width=20 /> &nbsp;![](https://komarev.com/ghpvc/?username=Umar-Waseem)
 <img align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="460" height="320" />  
 
 - I’m currently learning &nbsp; <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="flutter" width="40" height="40"/> </a>
@@ -26,16 +23,7 @@
 
 
 
-### Profile Views 📺
-![](https://komarev.com/ghpvc/?username=Umar-Waseem)
 
-<br>
-
-
-### WakaTime Stats 🔢
-[![WakaTime Stats](https://wakatime.com/badge/user/ec57600d-1d86-47c7-a978-8435c3d0e65a.svg)](https://wakatime.com/@ec57600d-1d86-47c7-a978-8435c3d0e65a)
-
-<br>
 
 
 ### Skills 💪
