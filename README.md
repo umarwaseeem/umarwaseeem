@@ -40,6 +40,12 @@
 - <a target="_blank" href="https://medium.com/@umar.waseem/hacktober-fest-once-again-98830f0ab7c9">Every Thing You Need To Know About Hacktober Fest 2022.</a>
 
 
+### Lets Participate in Hacktober Fest 2022:
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Contribute-Hacktober-Fest-2022&show_owner=true&theme=dracula)](https://github.com/Umar-Waseem/Contribute-Hacktober-Fest-2022)
+
 
 
 <br> <br>
