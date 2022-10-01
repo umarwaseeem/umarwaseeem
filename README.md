@@ -44,7 +44,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=Contribute-Hacktober-Fest-2022&show_owner=true&theme=dracula)](https://github.com/Umar-Waseem/Contribute-Hacktober-Fest-2022)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Umar-Waseem&repo=DSA-Hacktober-Fest-2022&show_owner=true&theme=dracula)](https://github.com/Umar-Waseem/Contribute-Hacktober-Fest-2022)
 
 
 
