@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Umar Waseem
+# Hi 👋, I'm Muhammad Umar Waseem 
 
 
 ### A passionate software developer from ` PAKISTAN ` &nbsp; &nbsp; <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" height=20 width=20 /> &nbsp;![](https://komarev.com/ghpvc/?username=Umar-Waseem)
@@ -32,7 +32,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://copm.s3.amazonaws.com/189aa059.png" alt="flutter" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/firebase.png" alt="firebase" width="30" height="30"/> </a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="flutter" width="30" height="30"/> </a> <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/750/1*x5D-t_6hTxA_5YDtAZJZvw.jpeg" alt="flutter" width="60" height="40"/> </a></p>
 
-<br> <br>
+<br>
 
 ### Check Out My Latest Article 
 
