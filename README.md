@@ -44,7 +44,7 @@
 - <a target="_blank" href="https://medium.com/@umar.waseem/hacktober-fest-once-again-98830f0ab7c9">Every Thing You Need To Know About Hacktober Fest 2022.</a>
 
 
-### Advent Of Code 2022 solutions:
+### Advent Of Code 2022 All Solutions:
 
 
 
