@@ -4,12 +4,12 @@
 ### A passionate software developer from ` PAKISTAN ` &nbsp; &nbsp; <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" height=20 width=20 /> &nbsp;![](https://komarev.com/ghpvc/?username=Umar-Waseem)
 <img align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="460" height="320" />  
 
-- I’m currently learning &nbsp; <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="flutter" width="40" height="40"/> </a>
+- 🖊️ I’m currently preparing for <a href= "https://learn.microsoft.com/en-us/certifications/exams/az-900" > Microsoft AZ-900 certification  <a>
+- 👀 I stalk people on Github and Linkedin.
 - 🎓 BS Computer Science student at FAST Uni <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> <img src="http://isb.nu.edu.pk/assets/images/logo.png" alt="university logo" width="20" height="20"/> </a>
-- 📧 Drop Me An Email &nbsp;&nbsp;  <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="" height="20" width="30" /></a> <br> 
-
-
-
+- 📧 Drop Me An Email &nbsp;&nbsp;  <a href="mailto:umar.waseem@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="" height="20" width="30" /></a> <br>
+- 🤝 I contribute to Open Source Projects according to my skill set.
+- 💻 I do freelance Mobile App Developement on <a href = "https://www.upwork.com/freelancers/~0104077fe732576606" >Upwork <a>
 
 <br> <br>
 
