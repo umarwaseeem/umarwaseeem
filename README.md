@@ -12,6 +12,7 @@
 - 🤝 I contribute to `Open Source` projects according to my skill set.
 - 💻 I do freelance `Mobile App Developement` on <a href = "https://www.upwork.com/freelancers/~0104077fe732576606" > ` Upwork ` <a>
 - 🖋️ I write all sorts of articles on <a href = "https://medium.com/@umar.waseem" > ` Medium ` <a> 
+- 🎥 I make videos on <a href = "https://youtube.com/@umar-waseem" > ` Youtube ` <a>
 
 <h2 align="left">Socials: </h2>
 <p align="left">
@@ -20,6 +21,7 @@
 <a href="https://stackoverflow.com/users/17903563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17903563" height="30" width="40" /></a>
 <a href="https://instagram.com/the_umar_waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_umar_waseem" height="30" width="40" /></a>
 <a href="https://medium.com/@umar.waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umar.waseem" height="30" width="40" /></a>
+<a href="https://youtube.com/@umar-waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@umar.waseem" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
