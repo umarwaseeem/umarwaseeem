@@ -57,7 +57,7 @@
 ### Time spent on different languages in past 7 days:
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   6 hrs 49 mins   █████████████████████░░░░   83.69 %
 Bash         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
 Other        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
