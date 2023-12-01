@@ -6,11 +6,9 @@
 <!-- <img align="right" src="meGithubWorkshop.png" width="500" height="500" />  -->
 
 - 🖊️ I’m currently preparing for <a href= "https://learn.microsoft.com/en-us/certifications/exams/az-900" > ` Microsoft AZ-900 Exam `  <a>
-- 👀 I stalk people on <a href= "https://github.com/Umar-Waseem" > ` Github ` <a> and <a href= "https://www.linkedin.com/in/umarwas/" > ` Linkedin `  <a> 
 - 🎓 BS `Computer Science` student at <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> ` Fast National University Of Computer Sciences ` </a>
 - 📧 Drop Me An <a href="mailto:umar.waseem@gmail.com" target="blank">`Email`</a> <br>
-- 🤝 I contribute to `Open Source` projects according to my skill set.
-- 💻 I do freelance `Mobile App Developement` on <a href = "https://www.upwork.com/freelancers/~0104077fe732576606" > ` Upwork ` <a>
+- 💻 I do freelance `Software Developement` on <a href = "https://www.upwork.com/freelancers/~0104077fe732576606" > ` Upwork ` <a>
 - 🖋️ I write all sorts of articles on <a href = "https://medium.com/@umar.waseem" > ` Medium ` <a> 
 - 🎥 I make videos on <a href = "https://youtube.com/@umar-waseem" > ` Youtube ` <a>
 
