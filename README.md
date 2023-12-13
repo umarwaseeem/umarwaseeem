@@ -1,5 +1,6 @@
 # Hi 👋, I'm Muhammad Umar Waseem 
 
+[![wakatime](https://wakatime.com/badge/user/ec57600d-1d86-47c7-a978-8435c3d0e65a.svg)](https://wakatime.com/@ec57600d-1d86-47c7-a978-8435c3d0e65a)
 
 ### A passionate software developer from `   PAKISTAN   ` &nbsp; &nbsp; <img src="https://images.emojiterra.com/twitter/512px/1f1f5-1f1f0.png" height=20 width=20 /> &nbsp;![](https://komarev.com/ghpvc/?username=Umar-Waseem)
 
