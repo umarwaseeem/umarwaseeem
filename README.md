@@ -6,7 +6,7 @@
 
 <!-- <img align="right" src="meGithubWorkshop.png" width="500" height="500" />  -->
 
-- 🖊️ I’m currently preparing for <a href= "https://learn.microsoft.com/en-us/certifications/exams/az-900" > ` Microsoft AZ-900 Exam `  <a>
+- 🖊️ I’m currently preparing for <a href= "https://learn.microsoft.com/en-us/certifications/exams/az-900" > ` Microsoft AZ-900 `  <a>
 - 🎓 BS `Computer Science` student at <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> ` Fast National University Of Computer Sciences ` </a>
 - 📧 Drop Me An <a href="mailto:umar.waseem@gmail.com" target="blank">`Email`</a> <br>
 - 💻 I do freelance `Software Developement` on <a href = "https://www.upwork.com/freelancers/~0104077fe732576606" > ` Upwork ` <a>
