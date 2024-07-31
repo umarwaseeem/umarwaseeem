@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/17903563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17903563" height="30" width="40" /></a>
 <a href="https://instagram.com/umarwaseeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_umar_waseem" height="30" width="40" /></a>
 <a href="https://medium.com/@umarwaseeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umar.waseem" height="30" width="40" /></a>
-<a href="https://youtube.com/@umar-waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@umar.waseem" height="30" width="40" /></a>
+<a href="https://youtube.com/@umarwaseeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@umar.waseem" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -37,8 +37,8 @@
 
 ## Check Out My Latest Articles 
 
-- <a target="_blank" href="https://medium.com/@umar.waseem/things-you-need-to-know-before-starting-flutter-af8c7639f7ab">What to do before learning Flutter?</a>
-- <a target="_blank" href="https://medium.com/@umar.waseem/hacktober-fest-once-again-98830f0ab7c9">Every Thing You Need To Know About Hacktober Fest 2022.</a>
+- <a target="_blank" href="https://medium.com/@umarwaseeem/things-you-need-to-know-before-starting-flutter-af8c7639f7ab">What to do before learning Flutter?</a>
+- <a target="_blank" href="https://medium.com/@umarwaseeem/hacktober-fest-once-again-98830f0ab7c9">Every Thing You Need To Know About Hacktober Fest 2022.</a>
 
 <!--
 ### I code in :
@@ -46,11 +46,11 @@
 <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Waseem&layout=compact&theme=dracula&border_radius=18&langs_count=10" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -->
 ## Github Stats 📈
-<img src = "https://github-readme-stats.vercel.app/api?username=Umar-Waseem&show_icons=true&theme=dracula&title_color=fffff1&border_radius=18" >
+<img src = "https://github-readme-stats.vercel.app/api?username=umarwaseeem&show_icons=true&theme=dracula&title_color=fffff1&border_radius=18" >
 
 ## Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Umar-Waseem&theme=dracula">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=umarwaseeem&theme=dracula">
 
 
 ### Time spent on different languages in past 7 days:
