@@ -57,11 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              1 hr 11 mins    ████████████████▓░░░░░░░░   66.31 %
-Dart              11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Other             10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Java Properties   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Groovy            3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
