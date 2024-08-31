@@ -57,7 +57,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 31 mins   █████████████████████████   100.00 %
+JavaScript        2 hrs 31 mins   █████████████████████▓░░░   87.07 %
+Dart              20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Groovy            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
