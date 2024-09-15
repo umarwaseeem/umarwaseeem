@@ -57,10 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   1 hr 12 mins    ████████████████████████▒   97.52 %
-Bash   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
